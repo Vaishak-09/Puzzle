@@ -1,0 +1,39 @@
+body
+{
+    background-color: rgb(92, 86, 86);
+    display: flex;
+    justify-content: center;
+}
+button
+{
+    background-color: rgb(255, 191, 0);
+    height: 5vh;
+    width: 15vw;
+    border-radius: 5px;
+    border: 1px solid rgb(255, 191, 0);
+    margin-left: 2px;
+}
+.container
+{
+    width: 50vw;
+    position: absolute;
+    overflow:hidden;
+    height:50vh;
+    border: 2px solid rgb(255, 255, 255);
+    top: 20%;
+}
+td{
+    width: 10vw;
+    height: 9.15vh;
+    border: 1px solid rgb(226, 183, 128);
+    padding-left: 5%;
+    background-color: lightblue;
+    /*rgba(226, 183, 128, 0.652);*/
+    font-weight: bolder;
+    
+}
+
+
+
+
+
