@@ -43,7 +43,7 @@ function check()
         }
         if(flag==15)
         {
-            alert("Congratulation!!  solved succesfullt");
+            alert("Congratulation!!  solved succesfully");
         }
         else{
             
