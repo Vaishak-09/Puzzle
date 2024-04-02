@@ -51,18 +51,15 @@ td{
     align-items: center;
     align-content: center;
     padding-right: 50px;
-    margin-left:-70px;
+    margin-left:-65px;
 }
 
 .modes
 {
-    margin-left: -40px;
+    margin-left: -10px;
     /* border: 1px solid black; */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    align-content: center;
-    scale: 0.8;
+    padding-left: -10%;
+    scale: 0.9;
 
 }
 #shadow
@@ -113,7 +110,6 @@ td{
     {
         background-color:rgb(171, 188, 196);
     }
-    
 }
 
 @keyframes dmode {
